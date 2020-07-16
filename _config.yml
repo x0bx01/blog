@@ -15,8 +15,8 @@ baseurl:          '/blog'
                   # sidebar_blog_link below.
 remote_theme:     fongandrew/hydeout
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'b'
+  url:             https://github.com/x0bx01
 
 paginate:         5
 # paginate_path:    '/page:num'
