@@ -1,4 +1,12 @@
-# OSCP Course (PWK updated 2020) Review
+---
+layout: post
+title: "OSCP Course (PWK updated 2020) Review"
+categories:
+  - oscp
+tags:
+  - content
+---
+
 
 Hello, I've just gotten the email from Offsec notifying my of my pass. If you are reading this, you are probably in the position I was in a few months back - deciding whether to go for the PWK course, or already doing the course and deciding if you are ready to take the exam. 
 
